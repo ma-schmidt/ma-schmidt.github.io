@@ -1,209 +1,223 @@
-Fancy jekyll powered single page site
-======================
+# Pixyll
 
-Here're some examples:
+[pixyll.com](http://www.pixyll.com)
 
-- **This repository** is also a live demo, see it at [t413.com/SinglePaged](http://t413.com/SinglePaged)
-- **Education:**
-  - [Global Health Project](http://gcarrozza.github.io/global-health-proj/) for Public Health class at UIC (student project) ([source](https://github.com/gcarrozza/global-health-proj/))
-  - [Bioinformatics at Harvard Medical School](http://bioinformatics.hms.harvard.edu/) --  ([source](https://github.com/hbc-hms/hbc-hms.github.io))
-  - [Dutch Introduction to Electronics class](http://tverbesselt.github.io/) ([source](https://github.com/tverbesselt/tverbesselt.github.io)) ([translation](https://translate.google.com/translate?sl=auto&tl=en&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Ftverbesselt.github.io%2F&edit-text=&act=url))
-  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
-  - [@opsbug Tech Inoculator](http://increasingprobability.com/) ([source](https://github.com/increasingprobability/increasingprobability.github.io))
-- **Open Source Projects:**
-  - [ALM](http://alm.tools/) A cloud ready IDE for TypeScript ([source](https://github.com/alm-tools/alm-tools.github.io))
-  - [argon.js](http://argonjs.io/) JS framework for adding augmented reality to web apps ([source](https://github.com/argonjs/argonjs.github.io))
-  - [Mockito](https://mockito.github.io/) mocking framework for unit tests in Java ([source](https://github.com/mockito/mockito.github.io))
-  - [REMnux](http://www.elabftw.net/) Electronic lab notebook ([source](https://github.com/elabftw/elabftw/tree/gh-pages))
-  - [REMnux](http://remnux.github.io/) A Linux Toolkit for Reverse-Engineering and Analyzing Malware ([source](https://github.com/REMnux/remnux.github.io))
-  - [Langmuir](https://langmuirsim.github.io/) Charge transfer simulations in organic electronics. ([source](https://github.com/LangmuirSim/langmuirsim.github.io))
-  - [OSX Privacy](http://osxprivacy.com/)-- exposing OS X Yostemite privacy issues ([source](https://github.com/maxx/osxprivacy))
-  - [SMS-Tools](http://t413.com/SMS-Tools/) is another project of mine that uses this template ([source](https://github.com/t413/SMS-Tools/tree/gh-pages))
-  - [HTML Tidy Advocacy Community Group](http://www.htacg.org/) ([source](https://github.com/htacg/htacg.github.io))
-  - [AfriLeaks](https://afrileaks.org/) (since changed, still cool!) - secure whistleblowers confidential submition project page ([source when single-paged](https://github.com/CodeForAfrica/AfriLeaks-Landing-Page/tree/698e3b0b1a67cc5f072ccd3a8f24b6d5e3ad406a))
-  - [FitNesse](http://fitnesse-eclipse.github.io/) Eclipse Plugin ([source](https://github.com/fitnesse-eclipse/fitnesse-eclipse.github.io))
-  - [Akanda](http://akanda.io/) Network Virtualization ([source](https://github.com/akanda/akanda.io))
-  - [Lazy Dubuntu](http://lazydubuntu.com/) ([source](https://github.com/darol100/lazydubuntu.com))
-  - [GROgreenhouses](http://grogreenhouses.com/), finances greenhouses for farmers in Sierra Leone ([source](https://github.com/grogreenhouses/grogreenhouses.github.io))
-  - [vampd](http://vampd.io) Vagrant Drupal Box ([source](https://github.com/vampd/vampd/tree/gh-pages))
-  - [Automatune](http://mlsites.github.io/Automatune-Site/) - discover and share melodies ([source](https://github.com/mlsites/Automatune-Site/))
-  - [The Rosette Platform](https://rosette-proj.github.io/)- git-based, internationalization framework (Ruby) ([source](https://github.com/rosette-proj/rosette-proj.github.io))
-  - [PHP Cat](http://phpcat.github.io/phpcat/) PHP Developer Group in Catalan (grup de desenvolupadors PHP de llengua catalana) ([source](https://github.com/phpcat/phpcat/))
-  - [Alt.Net Australia User Group](http://www.ozalt.net/) ([source](https://github.com/ozaltnet/ozaltnet.github.io))
-  - [FeedReader](http://jangernert.github.io/FeedReader/) Desktop RSS client ([source](https://github.com/jangernert/FeedReader/tree/gh-pages))
-  - [Coala Analyzer](http://coala-analyzer.org/) command-line interface for linting ([source](https://github.com/coala-analyzer/website))
-  - [Easy Shell](http://lucasviola.github.io/easyshell/) Linux and Shell Commands the Easy Way ([source](https://github.com/lucasviola/easyshell/tree/gh-pages)) 
-- **Events / Conferences**
-  - [CodeWeek 15 @ DI](http://cesium.github.io/codeweek15) CodeWeek at the University of Minho in 2015 by [CeSIUM](http://cesium.di.uminho.pt) - ([source](http://github.com/cesium/codeweek15))
-  - [Innovation Lab + Smart Data Hack](http://smartdatahack.org/) 5-day student challenge at University of Edinburgh, Turkey ([source](https://github.com/ilwhack/ilwhack.github.io))
-  - [Open CoMo](http://jakewins.github.io/opencomo-site/) Open-Data Incubator for Columbia, MO. 13th-15th of November 2015 ([source](https://github.com/jakewins/opencomo-site))
-  - [FSU Festival of New Music](https://fsufnm.github.io/) (17th Biennial) ([source](https://github.com/fsufnm/fsufnm.github.io))
-  - Code Across 2015 @Seoul 전 세계 시빅해커들과 함께 하는 -> since changed, ([source](https://github.com/codeforseoul/codeacross))
-- **Personal:**
-  - [Karen and Scott wedding](http://karenandscott.com/) ([source](https://github.com/karenandscott/karenandscott.github.io))
-  - [ryan & rachel wedding](https://r-and-r.github.io/) ([source](https://github.com/r-and-r/r-and-r.github.io))
-  - [Chris & Katie wedding](http://katieball.me/wedding-style/) ([source](https://github.com/roachhd/wedding-style))
-  - [Harmanpreet weds Gurwinder](http://harmanhanzra.github.io/) ([source](https://github.com/harmanhanzra/harmanhanzra.github.io))
-- **Products:**
-  - [Pawan Kumar film](http://c10h14n2movie.com/) info page ([source](https://github.com/c10h14n2movie/c10h14n2movie.github.io))
-  - [Physical.media](http://physical.media/) teaser page (album release tracker) ([source](https://github.com/JoshM33k/PhysicalMedia-ComingSoon))
-  - [Helpers in Korea](https://itgame.github.io/) ([source](https://github.com/itgame/itgame.github.io))
-  - Zeno- internet for gamers original teaser page: ([source](https://github.com/zenoio/zenoio.github.io))
-  - Original DEVISSCHER web design page ([source](https://github.com/devisscher/templates/))
-- **Resumes:**
-  - [magiciansanfrancisco.com](http://magiciansanfrancisco.com) professional page ([source](https://github.com/strongrobert/MagicianSanFrancisco))
-  - [Sumedha Pramod](http://www.pramod.ninja/) resume ([source](https://github.com/pramodsum/pramodsum.github.io))
-  - [Lia Bogoev](https://bogoli.github.io/) UX designer from utah ([source](https://github.com/bogoli/bogoli.github.io))
-  - [Bill Ryan](http://www.yuanbin.me/)'s homepage is a snazzy personal example! ([source](https://github.com/billryan/homepage))
-  - [Emil Ahlbäck](https://mull.github.io/) resume ([source](https://github.com/mull/mull.github.io))
-  - [Christophe Gabard](http://christophe.gabard.net/) resume ([source](https://github.com/cgabard/cgabard.github.io))
-  - [Leppotone Electrical Recordings](http://www.nathanmclaughlin.com/leppotone/) temporary homepage ([source](https://github.com/nathanmclaughlin/leppotone))
-  - [Michael A. Schmidt](http://micha-a-schmidt.github.io/physics/) particle physics lecturer at the University of Sydney ([source](https://github.com/micha-a-schmidt/physics/))
-  - [Tim Beissinger](https://timbeissinger.github.io/) postdoc in Plant Sciences at UC Davis ([source](https://github.com/timbeissinger/timbeissinger.github.io))
-  - [Jin Li](https://just4jin.github.io/) MS student in Systems and Information Engineering @ UVA ([source](https://github.com/just4jin/just4jin.github.io))
-  - [Emil Ahlbäck](https://mull.github.io/) ([source](https://github.com/mull/mull.github.io))
-- *Let me know of more!*
+![Pixyll screenshot](https://cloud.githubusercontent.com/assets/1424573/3847467/134aa236-1e66-11e4-8421-4e8c122118dc.png)
 
+Pixyll is a simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff. It's mobile _first_, fluidly responsive, and delightfully lightweight.
 
-## Why?
+It's pretty minimal, but leverages large type and drastic contrast to make a statement, on all devices.
 
-Got some *killer app*, some *neat project*, a cool portfolio? Make an easy single-page site to show it all off. SinglePaged uses jekyll niceties to make a ***polished, modular, and beautiful* single page site**.
+This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
+([@4lpine](https://twitter.com/4lpine)).
 
-- Each vertical section is a markdown file in **_posts/** directory.
-  * They're sorted by 'date'. (we don't use date anywhere, it only sorts)
-- Each vertical section sets it's own **color**, **header icon** (or image), **title**, and easy-to-write markdown body.
-- Only **two things** to edit:
-  1. Edit `_config.yml` to set the site title, description, etc
-  2. Add _posts/*.md to make each vertical section. Copy some examples and add the sections from your README.md for a fast start!
-- Easy adding of **SEO terms**, **favicon** & such, and **google analytics token**.
+中文版 <https://github.com/ee0703/pixyll-zh-cn>.
 
-Sound good? Let's go!
+## Getting Started
 
-There are three way to get started: (links jump to that section)
+If you're completely new to Jekyll, I recommend checking out the documentation at <http://jekyllrb.com> or there's a tutorial by [Smashing Magazine](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/).
 
-1. Make a [**user homepage**](#setup-as-user-homepage) (or organization)
-2. Make a [**standalone project**](#setup-as-standalone-project-page) page
-3. Make a [site under an **existing project**](#setup-inside-existing-project)
+```
+$ git clone git@github.com:johnotander/pixyll.git
+$ cd pixyll
+$ gem install bundler # If you don't have bundler installed
+$ bundle install
+```
 
+If you don't want to install anything in your local machine, you can create a free development environment for this Pixyll project in the cloud on [Nitrous.io](https://www.nitrous.io) by clicking the button below.
 
+<a href="https://www.nitrous.io/quickstart">
+  <img src="https://nitrous-image-icons.s3.amazonaws.com/quickstart.png" alt="Nitrous Quickstart" width=142 height=34>
+</a>
 
--------------------------
+In the IDE, start Pixyll via `Run > Start Pixyll` and access your site via `Preview > 3000`.
 
-## Setup as user homepage
+#### Verify your Jekyll version
 
-- Go click **fork** on the [github project page](https://github.com/t413/SinglePaged)
-- Rename your new repository to `**username**.github.io`. (click settings in the right column)
-- Clone your repository, **cd into the project**
-- Run `git checkout publish && git branch -m master && git push -u origin master && git branch -D gh-pages` to get the *publish* branch as master for a clean, empty starting point.
-- On your github project page go to *settings* again and change your **default branch** to ***master***
-- Run `git push origin --delete gh-pages` to delete your remote's development branch
+It's important to also check your version of Jekyll since this project uses Native Sass which
+is [only supported by 2.0+](http://jekyllrb.com/news/2014/05/06/jekyll-turns-2-0-0/).
 
-Now hop over to [Usage](#usage) to get it running with your own stuff!
+### Fork, then clone
 
-**When you publish changes use `git push -u origin master`**
+Fork the repo, and then clone it so you've got the code locally.
 
--------------------------
+### Modify the `_config.yml`
 
+The `_config.yml` located in the root of the Pixyll directory contains all of the configuration details
+for the Jekyll site. The defaults are:
 
-## Setup as standalone project page
+```yml
+# Site settings
+title: Pixyll
+email: your_email@example.com
+author: John Otander
+description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+baseurl: ""
+url: "http://pixyll.com"
 
-- Go click **fork** on the [github project page](https://github.com/t413/SinglePaged)
-- Rename your new repository to `whatever you want`. (click settings in the right column)
-  * It will go live at yourusername.github.io/**WhateverYouWant**
-- Clone your repository, cd into the project
-- Run `git checkout publish && git branch -D gh-pages && git branch -m gh-pages && git push -uf origin gh-pages` to swap the *publish* and *gh-pages* branch.
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+```
 
-Now hop over to [Usage](#usage) to get it running with your own stuff!
+### Jekyll Serve
 
-**When you publish changes use `git push -u origin gh-pages`**
+Then, start the Jekyll Server. I always like to give the `--watch` option so it updates the generated HTML when I make changes.
 
--------------------------
+```
+$ jekyll serve --watch
+```
 
+Now you can navigate to `localhost:4000` in your browser to see the site.
 
-## Setup inside existing project
+### Using Github Pages
 
-This is the most complicated use-case .. but it's the coolest.
-Say you've got your kickass project `github.com/t413/kicker` and want to have
-some web presence to post about on [hacker news](http://news.ycombinator.com).
-This will create an orphan branch called `gh-pages` in your repository
-where you can publish changes, posts, images, and such. It won't alter your code at all.
+You can host your Jekyll site for free with Github Pages. [Click here](https://pages.github.com/) for more information.
 
-- `cd` into your project on the command line
-- use `git remote add -t publish singlepage git@github.com:t413/SinglePaged.git` to get access to this repository.
-- use `git fetch singlepage publish:gh-pages` to fetch the remote branch
-- use `git branch --set-upstream-to gh-pages singlepage/publish && git checkout gh-pages;`
-  This creates and checks out an orphan branch called gh-pages that tracks the original and lets you make changes.
-- When you run `git push origin gh-pages` it'll be live at *yourusername.github.io/repositoryName*
+#### A configuration tweak if you're using a gh-pages sub-folder
 
-Now hop over to [Usage](#usage) to get it running with your own stuff!
+In addition to your github-username.github.io repo that maps to the root url, you can serve up sites by using a gh-pages branch for other repos so they're available at github-username.github.io/repo-name.
 
-**When you publish changes use `git push -u origin gh-pages`**
+This will require you to modify the `_config.yml` like so:
 
+```yml
+# Site settings
+title: Repo Name
+email: your_email@example.com
+author: John Otander
+description: "Repo description"
+baseurl: "/repo-name"
+url: "http://github-username.github.io"
 
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 3
+```
 
-## Usage
+This will ensure that the the correct relative path is constructed for your assets and posts. Also, in order to run the project locally, you will need to specify the blank string for the baseurl: `$ jekyll serve --baseurl ''`.
 
-Alright, you've got a clean copy and are ready to push some schmancy pages for the world to ogle at.
+##### If you don't want the header to link back to the root url
 
-- Edit `_config.yml` to change your title, keywords, and description.
-- Create a new file in `_posts/` called `2014-01-01-intro.md`
-  Edit it, and add:
+You will also need to tweak the header include `/{{ site.baseurl }}`:
 
-~~~
-  ---
-  title: "home"
-  bg: white     #defined in _config.yml, can use html color like '#010101'
-  color: black  #text color
-  style: center
-  ---
+```html
+<header class="site-header px2 px-responsive">
+  <div class="mt2 wrap">
+    <div class="measure">
+      <a href="{{ site.url }}/{{ site.baseurl }}">{{ site.title }}</a>
+      <nav class="site-nav right">
+        {% include navigation.html %}
+      </nav>
+    </div>
+  </div>
+</header>
+```
 
-  # Example headline!
-  and so on..
-~~~
+A relevant Jekyll Github Issue: <https://github.com/jekyll/jekyll/issues/332>
 
-- Create a second post called `2014-01-02-art.md` with an divider image this time:
+### Contact Form
 
-~~~
-  ---
-  title: "Art"
-  bg: turquoise  #defined in _config.yml, can use html color like '#0fbfcf'
-  color: white   #text color
-  fa-icon: paint-brush
-  ---
+The contact form uses <http://formspree.io>. It will require you to fill the form out and submit it once, before going live, to confirm your email.
 
-  #### A new section- oh the humanity!
-~~~
+More setup instructions and advanced options can be found at [http://formspree.io](http://formspree.io/)
 
-**Note:** That part `fa-icon: paint-brush` will use a font-awesome icon of [paint-brush](http://fortawesome.github.io/Font-Awesome/icon/paint-brush/). You can use any icon from this [font-awesome icon directory](http://fortawesome.github.io/Font-Awesome/icons/).
+### Disqus
 
-- install Jekyll with `sudo gem install github-pages`
-- run `jekyll serve -w`
-  - visit [localhost:4000](http://localhost:4000) to see a live locally served preview.
-- Push changes and see them live!
+To configure Disqus, set up a [Disqus site](https://disqus.com/admin/create/) with the same name as your site. Then, in `_config.yml`, edit the `disqus_shortname` value to enable Disqus.
 
+### Customizing the CSS
 
+All variables can be found in the `_sass/_variables.scss` file, toggle these as you'd like to change the look and feel of Pixyll.
 
+### Page Animation
 
-## Changing your colors
+If you would like to add a [fade-in-down effect](http://daneden.github.io/animate.css/), you can add `animated: true` to your `_config.yml`.
 
-- In each post file you can define `bg: mycolor` and `color: myothercolor` to change the background and text colors for that section.
-- **mycolor** can be a quoted html color like `'#0fbfcf'` or a key to a special color defined in **_config.yml** under 'colors'.
-  - **Note:** Changes to _config.yml require a manual restart to your local server with `^C` and `jekyll serve -w`.
+### AnchorJS
 
-Nifty, right!
+[AnchorJS](https://github.com/bryanbraun/anchorjs): _A JavaScript utility for adding deep anchor links to existing page content. AnchorJS is lightweight, accessible, and has no dependencies._ You can turn it on by toggling `enable_anchorjs`. Because it offers many ways for customization, tweaks should be done in `_includes/footer.html`. Default settings after turning AnchorJS on are:
 
+```html
+<script>
+    anchors.options.visible = 'always';
+    anchors.add('article h2, article h3, article h4, article h5, article h6');
+</script>
+```
 
+See [documentation](http://bryanbraun.github.io/anchorjs/#basic-usage) for more options.
 
-## Updating
+### Put in a Pixyll Plug
 
-So you've got a copy running and there's some new update? Let's update!
+If you want to give credit to the Pixyll theme with a link to <http://pixyll.com> or my personal website <http://johnotander.com> somewhere, that'd be awesome. No worries if you don't.
 
-1. Checkout your github-pages branch
-  - `git checkout gh-pages` for a standalone or existing page
-  - `git checkout master` for a *username.github.io* page
-2. run `git remote | grep -q "singlepage" || git remote add -t publish singlepage https://github.com/t413/SinglePaged.git` to be sure you have access to this repository (you can run this command at any time).
-2. `git fetch singlepage` to fetch-in-place new changes.
-3. Update to the new base (using merge)
-    1. `git merge singlepage/publish`
-4. You can alternatively update using rebase. This *rewrites history* (**bad**), but it is cleaner.
-    1. `git rebase singlepage/publish`
+### Web analytics and search engines
+
+You can measure visits to your website either by using [Google Analytics](https://www.google.com/analytics/) tracking embed or the more advanced [Google Tag Manager](https://www.google.com/analytics/tag-manager/) container.
+* For Google Analytics set up the value for `google_analytics`, it should be something like `google_analytics: UA-XXXXXXXX-X`.
+* For Google Tag Manager set up the value for `google_tag_manager`, it should be something like: `google_tag_manager: GTM-XXXXX`.
+* _Do not_ set both of above methods because this will cause conflicts and skew your reporting data.
+* Remember that you need to properly configure the GTM container in its admin panel if you want it to work. More info is available in [GTM's docs](https://www.google.com/analytics/tag-manager/resources/).
+
+Your website is, by default, set to be allowed for crawling and indexing by search engines. (Unless you made yourself a custom robots.txt file). You can use front matter settings on each page to control how search engines will it. Sometimes you may want to exclude a particular page from indexing or forbid Google to store a copy of your page in its cache. It is up to you. Use the `meta_robots` frontmatter key and assign values based on [this table](https://developers.google.com/webmasters/control-crawl-index/docs/robots_meta_tag?hl=en#valid-indexing--serving-directives). Some examples:
+
+```yaml
+# exclude page from index
+meta_robots: noindex
+
+# allow indexing, disallow caching
+meta_robots: noarchive
+
+# allow indexing, disallow crawling links
+meta_robots: nofollow
+
+# disallow indexing, follow links
+meta_robots: noindex,follow
+```
+
+In order to get more information about your website's status in search engines, you can register it in [Google Search Console](https://www.google.com/webmasters/tools/home) and/or [Bing Webmaster Tools](http://www.bing.com/toolbox/webmaster). Both these tools will ask you to authorize your website with them and there are couple of ways to do that. Pixyll supports verification via meta tags - just fill in values for `google_verification` and/or `bing_verification` in `_config.yml`, the verification strings and meta tags will then be added automatically.
+
+If search engine optimization is your thing, you can also set up `meta_description` values for each page/post. By default Pixyll uses `summary` to populate the `<meta name="description" content="...">` tag and falls back to `description` from `_config.yml` if `summary` is not present in page/post's front matter. The `summary` is also used for generating Open Graph tags. Why would you want to use a dedicated variable for meta description? Because character limit to properly display this description in search results (as a snippet) is way smaller than in Open Graph. It is recommended to keep it at 155-160 characters, for more in-depth info read [this article](https://moz.com/blog/i-cant-drive-155-meta-descriptions-in-2015).
+
+And lastly - if you happen to write in language other than English be sure to change `og_locale` in `_config.yml` to reflect it.
+
+### Enjoy
+
+I hope you enjoy using Pixyll. If you encounter any issues, please feel free to let me know by creating an [issue](https://github.com/johnotander/pixyll/issues). I'd love to help.
+
+## Upgrading Pixyll
+
+Pixyll is always being improved by its users, so sometimes one may need to upgrade.
+
+#### Ensure there's an upstream remote
+
+If `git remote -v` doesn't have an upstream listed, you can do the following to add it:
+
+```
+git remote add upstream https://github.com/johnotander/pixyll.git
+```
+
+#### Pull in the latest changes
+
+```
+git pull upstream master
+```
+
+There may be merge conflicts, so be sure to fix the files that git lists if they occur. That's it!
+
+## Thanks to the following
+
+* [BASSCSS](http://basscss.com)
+* [Jekyll](http://jekyllrb.com)
+* [Refills](http://refills.bourbon.io/)
+* [Solarized](http://ethanschoonover.com/solarized)
+* [Animate.css](http://daneden.github.io/animate.css/)
+
+## Contributing
+
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
