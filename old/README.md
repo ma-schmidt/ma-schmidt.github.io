@@ -1,1 +1,0 @@
-# ma-schmidt.github.io
