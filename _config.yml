@@ -1,10 +1,10 @@
 # Site settings
-title:       "Marc-Antoine Schmidt"
+title:       Marc-Antoine Schmidt
 email:       marc.a.schmidt@gmail.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Marc-Antoine Schmidt
+description: "Marc-Antoine Schmidt - PhD student in economics"
 baseurl:     ""
-url:         "http://pixyll.com"
+# url:         ""
 date_format: "%b %-d, %Y"
 
 # Google services
