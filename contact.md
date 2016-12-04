@@ -15,3 +15,7 @@ layout: default
 > 150 St. George St., 346  
 > Toronto, ON  
 > M5S 3G7
+
+---
+
+You can also find my programming projects on [Github](https://github.com/ma-schmidt)
