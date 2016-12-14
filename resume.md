@@ -2,17 +2,17 @@
 layout: default
 ---
 
-A pdf version of my full CV is available [here](CV.pdf).
+A pdf version of my full CV is available <a href="{{ site.baseurl }}/CV.pdf">here</a>.
 
 ## Education
 
-- 2013 - present: PhD Economics University of Toronto
-- 2011 - 2012: MA Economics University of British Columbia
-- 2008 - 2011: BSc Economics Université de Montréal
+- 2013 - present: PhD Economics - University of Toronto
+- 2011 - 2012: MA Economics - University of British Columbia
+- 2008 - 2011: BSc Economics - Université de Montréal
 
 ## Work Experience
 
-- 2012 - 2013: Economist at the Bank of Canada, Québec Regional Office
+- 2012 - 2013: Economist - Bank of Canada, Québec Regional Office
 
 ## Awards
 
