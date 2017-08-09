@@ -6,7 +6,7 @@ layout: default
 
 <img src="{{ site.baseurl }}/images/taxi2.png" class="research-img">
 
--	Identifying Behavioral Responses in Labor Supply: Revisiting the New York Taxi Industry ([pdf]({{ site.baseurl }}/papers/taxi.pdf))
+-	Identifying Behavioral Responses in Labor Supply: Revisiting the New York Taxi Industry ([pdf]({{ site.baseurl }}/papers/taxi_schmidt.pdf))
 
 
 
