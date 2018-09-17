@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="{{ site.baseurl }}/images/me_old.jpg" class="right no-mobile" />
+<!-- <img src="{{ site.baseurl }}/images/me_old.jpg" class="right no-mobile" /> -->
 
 ### Email
 
