@@ -12,7 +12,7 @@ layout: default
 
 ### Address
 
-> 150 St. George St., 248  
+> 150 St. George St., 277 
 > Toronto, ON  
 > M5S 3G7
 
