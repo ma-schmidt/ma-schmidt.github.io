@@ -7,7 +7,7 @@ layout: default
 <img src="{{ site.baseurl }}/images/taxi2.png" class="research-img">
 
 
--	A Model of Within-Day Labor Supply with Endogenous Breaks (Job Market Paper)
+-	Discretionary Rest Breaks in the Era of Flexible Working (Job Market Paper)
 
 > Coming soon!
 
