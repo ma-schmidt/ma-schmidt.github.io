@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![picture](images/MarcAntoineSchmidt_400.jpg "Marc-Antoine Schmidt")
+![picture](images/MarcAntoineSchmidt_sq_300.jpg "Marc-Antoine Schmidt")
 <br/><br/><br/><br/>
 I am a Ph.D candidate in economics at the University of Toronto. 
 My main research interests are in labor economics, applied microeconomics, and public economics.
