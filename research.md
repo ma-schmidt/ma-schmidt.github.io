@@ -4,7 +4,7 @@ layout: default
 
 ## Working Papers
 
-<img src="{{ site.baseurl }}/images/taxi2.png" class="research-img"> 
+<img src="{{ site.baseurl }}/images/taxi2.png" class="research-img no-mobile"> 
 
 
 -	Valuing Discretionary Rest Breaks (Job Market Paper - draft coming soon)
