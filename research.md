@@ -26,8 +26,8 @@ layout: default
 
 ## Work in Progress
 
--	What Does the Meter Say? A New Approach to Quantifying Congestion Costs (with [Jonathan Hall](http://individual.utoronto.ca/jhall/) and [Robert McMillan](http://homes.chass.utoronto.ca/~mcmillan/))
+-	What Does the Meter Say? A New Approach to Quantifying Congestion Costs (with Jonathan Hall and Robert McMillan)
 
--	Valuing Reputation: Evidence from Online Scams (with [Daniel Ershov](https://sites.google.com/view/danielershov/home) and [Scott Orr](https://sites.google.com/site/pscottorr/home))
+-	Valuing Reputation: Evidence from Online Scams (with Daniel Ershov and Scott Orr)
 
 
