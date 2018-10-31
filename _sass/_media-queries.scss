@@ -45,6 +45,8 @@
   }
 
 
+
+
 }
 
 @media screen and (min-width: $viewport-medium) {
@@ -53,6 +55,9 @@
   }
   .no-mobile {
     display: block;
+  }
+  .clear-mobile {
+    clear: none;
   }
 }
 
