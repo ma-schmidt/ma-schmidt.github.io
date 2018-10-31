@@ -24,4 +24,10 @@ layout: default
 > <small>This paper presents empirical evidence that the daily labor supply response of workers is large and negative in response to small windfall gains (i.e. worker-specific income shocks), contrary to the prediction of the standard neoclassical model. I use microdata covering the universe of New York taxi trips to reconstruct drivers' daily work shifts in 2013. In the main specification, I identify windfall gains using tips received by drivers and find that they respond to these shocks by <i>decreasing</i> their labor supply substantially. Because tips are very common for American taxi drivers, I restrict the analysis to tips that are larger than the average but still represent a negligible part of a driver's monthly or weekly earnings. I obtain similar results when using trips from Manhattan to JFK Airport as an indicator of positive idiosyncratic earnings. I also find that these shocks do not affect future labor supply, indicating that standard neoclassical income effects cannot be causing this result. In contrast, a positive shock to average hourly earnings causes drivers' labor supply to increase, consistent with optimizing rational agency. The large and negative response to small windfall gains suggest that these shocks can have significant effects and should not be neglected when designing labor policies, especially when tips, commissions, or bonuses are involved.</small>
 
 
+## Work in Progress
+
+-	What Does the Meter Say? A New Approach to Quantifying Congestion Costs (with [Jonathan Hall](http://individual.utoronto.ca/jhall/) and [Robert McMillan](http://homes.chass.utoronto.ca/~mcmillan/))
+
+-	Valuing Reputation: Evidence from Online Scams (with [Daniel Ershov](https://sites.google.com/view/danielershov/home) and [Scott Orr](https://sites.google.com/site/pscottorr/home))
+
 
