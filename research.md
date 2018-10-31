@@ -7,7 +7,7 @@ layout: default
 <img src="{{ site.baseurl }}/images/taxi2.png" class="research-img">
 
 
--	Discretionary Rest Breaks in the Era of Flexible Working (Job Market Paper)
+-	Valuing Discretionary Rest Breaks (Job Market Paper)
 
 > Coming soon!
 
