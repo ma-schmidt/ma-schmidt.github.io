@@ -18,4 +18,4 @@ layout: default
 
 ---
 
-You can also find my programming projects on [Github](https://github.com/ma-schmidt)
+You can also find some older programming projects on [Github](https://github.com/ma-schmidt)
