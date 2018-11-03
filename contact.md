@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<!-- <img src="{{ site.baseurl }}/images/MarcAntoineSchmidt2_400.jpg" class="right no-mobile" /> -->
+<img src="{{ site.baseurl }}/images/schmidt-2.jpg" class="right no-mobile" />
 
 ### Email
 
