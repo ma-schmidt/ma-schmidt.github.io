@@ -6,7 +6,7 @@ A pdf version of my full CV is available <a href="{{ site.baseurl }}/CV_schmidt.
 
 ## Education
 
-- 2013 - present: PhD Economics - University of Toronto (expected July 2019)
+- 2013 -- present: PhD Economics - University of Toronto (expected July 2019)
 - 2011 - 2012: MA Economics - University of British Columbia
 - 2008 - 2011: BSc Economics - Université de Montréal
 
