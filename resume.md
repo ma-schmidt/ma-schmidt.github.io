@@ -6,7 +6,7 @@ A pdf version of my full CV is available <a href="{{ site.baseurl }}/CV_schmidt.
 
 ## Education
 
-- 2013 - present: PhD Economics - University of Toronto
+- 2013 - present: PhD Economics - University of Toronto (expected July 2019)
 - 2011 - 2012: MA Economics - University of British Columbia
 - 2008 - 2011: BSc Economics - Université de Montréal
 
@@ -19,4 +19,7 @@ A pdf version of my full CV is available <a href="{{ site.baseurl }}/CV_schmidt.
 - 2016: Royal Bank Graduate Fellowships in Public and Economic Policy
 - 2016: Ontario Graduate Scholarship
 - 2010: Outstanding Teaching Assistant Award
-- 2010: Roger-Dehem Prize in Microeconomics
+
+## Computer Skills
+
+Python/Cython, GIS programming, R, SQL, Stata, MATLAB
