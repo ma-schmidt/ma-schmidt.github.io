@@ -14,12 +14,6 @@ A pdf version of my full CV is available <a href="{{ site.baseurl }}/CV_schmidt.
 
 - 2012--2013: Economist --- Bank of Canada, Québec Regional Office
 
-## Awards
-
-- 2016: Royal Bank Graduate Fellowships in Public and Economic Policy
-- 2016: Ontario Graduate Scholarship
-- 2010: Outstanding Teaching Assistant Award
-
 ## Computer Skills
 
 Python/Cython, GIS programming, R, SQL, Stata, MATLAB
