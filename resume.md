@@ -2,7 +2,7 @@
 layout: default
 ---
 
-A pdf version of my full CV is available <a href="{{ site.baseurl }}/CV_schmidt.pdf">here</a>.
+A pdf version of my full CV is available <a href="{{ site.baseurl }}/Schmidt_CV.pdf">here</a>.
 
 ## Education
 
