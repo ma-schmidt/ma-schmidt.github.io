@@ -10,12 +10,4 @@ layout: default
 
 ---
 
-### Address
-
-> 150 St. George St., room 277  
-> Toronto, ON  
-> M5S 3G7
-
----
-
 You can also find some older programming projects on [Github](https://github.com/ma-schmidt)
