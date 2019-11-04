@@ -6,8 +6,8 @@ layout: default
 
 ### Email
 
-> [ma.schmidt@mail.utoronto.ca](mailto:ma.schmidt@mail.utoronto.ca)
+> [marc-antoine.schmidt@quantco.com](mailto:marc-antoine.schmidt@quantco.com)
 
 ---
 
-You can also find some older programming projects on [Github](https://github.com/ma-schmidt)
+You can also find some of my older programming projects on [Github](https://github.com/ma-schmidt)
