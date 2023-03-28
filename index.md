@@ -8,6 +8,6 @@ layout: default
 
 <p class="clear-mobile">Hi!
 
-<p class="clear-mobile">I am an economist working at QuantCo in Boston.
+<p class="clear-mobile">I am an economist working at [QuantCo](https://www.quantco.com/) and based in Montreal.
 
 <br/><br/>
