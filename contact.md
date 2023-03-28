@@ -10,4 +10,4 @@ layout: default
 
 ---
 
-You can also find some of my older programming projects on [Github](https://github.com/ma-schmidt)
+You can also find some of my older programming projects on [Github](https://github.com/ma-schmidt) or my professional [Github profile](https://github.com/marcantoineschmidtqc)

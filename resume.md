@@ -12,8 +12,10 @@ A pdf version of my full CV is available <a href="{{ site.baseurl }}/Schmidt_CV.
 
 ## Work Experience
 
+- 2019--now: Economist/Quantitative consultant --- QuantCo
 - 2012--2013: Economist --- Bank of Canada, Québec Regional Office
 
 ## Computer Skills
 
-Python/Cython, GIS programming, R, SQL, Stata, MATLAB
+- Python/Cython, SQL, C/C++, GIS programming, R, Stata, MATLAB
+- Developed a state-of-the-art [GLM estimation package](https://github.com/Quantco/glum) and a companion [matrix algebra library](https://github.com/Quantco/tabmat).
